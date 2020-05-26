@@ -1,4 +1,4 @@
-10707189868754811
+10677382319173811
 Battery_Holders
 Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (http://www.bulgin.com/media/bulgin/data/Battery_holders.pdf)
@@ -18949,145 +18949,12 @@ diode bridge 9.8mm WOG pitch 5.08mm
 4
 4
 Displays
-AG12864E
-STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
-AG12864E Graphics Display 128x64 Ampire
-0
-24
-20
-Displays
-EA_DOGXL160-7
-Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
-EA_DOGXL160-7
-0
-22
-22
-Displays
-EA_DOGXL160-7_Backlight
-Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
-EA_DOGXL160-7_Backlight
-0
-22
-22
-Displays
-EA_T123X-I2C
-http://www.lcd-module.de/pdf/doma/t123-i2c.pdf
-3 Line 12 character wide alpha numeric LCD
-0
-6
-6
-Displays
-EA_eDIPTFT70-XXX
-http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf
-TFT-graphical display 800x480 16-bit colours
-0
-48
-48
-Displays
-HDSM-441B_HDSM-443B
-2 Digit 7 segemnt blue LED, right hand decimal, https://docs.broadcom.com/docs/AV02-1589EN
-2 Digit 7 segment blue LED
-0
-10
-10
-Displays
-HDSM-541B_HDSM-543B
-2 digit 7 segement blue LED with right hand decimal, https://docs.broadcom.com/docs/AV02-1588EN
-2 digit 7 segement blue LED with right hand decimal
-0
-10
-10
-Displays
-HDSP-48xx
-10-Element Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Bar Graph Array
-0
-20
-20
-Displays
-HDSP-4830
-10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Bar Graph Array
-0
-20
-20
-Displays
-HDSP-4832
-10-Element Red Yellow Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Yellow Green Bar Graph Array
-0
-20
-20
-Displays
-HDSP-4836
-10-Element Red Yellow Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Yellow Green Bar Graph Array
-0
-20
-20
-Displays
-HDSP-4840
-10-Element Yellow Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Yellow Bar Graph Array
-0
-20
-20
-Displays
-HDSP-4850
-10-Element Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Green Bar Graph Array
-0
-20
-20
-Displays
-HLCP-J100
-10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Bar Graph Array
-0
-20
-20
-Displays
-HY1602E
-http://www.icbank.com/data/ICBShop/board/HY1602E.pdf
-LCD 16x2 Alphanumeric 16pin
-0
-20
-16
-Displays
-LCD-016N002L
-16 x 2 Character LCD, http://www.vishay.com/product?docid=37299
-LCD-016N002L 16 x 2 Character LCD
-0
-24
-20
-Displays
 LCD_ALPHA
 Connecteur 14 pins
 CONN DEV
 0
 18
 14
-Displays
-LM16255
-LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html
-LCD 12x2
-0
-14
-14
-Displays
-RC1602A
-http://www.raystar-optronics.com/down.php?ProID=18
-LCD 16x2 Alphanumeric 16pin
-0
-22
-18
-Displays
-WC1602A
-LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
-LCD 16x2 Alphanumeric 16pin
-0
-20
-16
 Displays_7-Segment
 7SEGMENT-LED__HDSM531_HDSM533_SMD
 
